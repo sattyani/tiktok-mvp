@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# env
+.env
+.env.local
+
+# database
+prisma/dev.db
+prisma/dev.db-journal
+
+# uploaded videos
+public/uploads/
+
+# misc
+.DS_Store
